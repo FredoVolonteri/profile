@@ -1,0 +1,56 @@
+/* Here goes your CSS */
+/* Here goes your CSS */
+.img-profile {
+ width: 8rem;
+ clip-path: circle(60px at center);
+ margin: 0 auto;
+
+}
+
+.img-books {
+ width: 8rem;
+ clip-path: circle(100px at center);
+ border-radius: 50%;
+}
+
+body {
+background-color: #EBEBEB;
+}
+
+h1, h2 {
+  font-family: 'Oswald', sans-serif;
+}
+
+a:hover {
+  color: #FFFFFF;
+  text-decoration: none;
+ }
+
+i {
+  text-decoration: none;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 95px;
+}
+
+td {
+  margin-right: 10px;
+}
+
+.profile-intro {
+  text-align: center;
+
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.section-title {
+  text-align: center;
+}
